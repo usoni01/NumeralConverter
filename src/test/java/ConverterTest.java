@@ -98,7 +98,7 @@ public class ConverterTest {
     }
 
     @Test
-    public void converterTest(){sudo dnf install git-all
+    public void converterTest(){
         List<Integer> input = new ArrayList<>();
         List<String> output = new ArrayList<>();
         String result;
